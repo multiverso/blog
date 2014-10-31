@@ -41,7 +41,7 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         /blog
+url:         http://multiverso.github.io/blog
 source:      .
 destination: ./_site
 plugins:     ./_plugins
@@ -71,7 +71,7 @@ excerpt_separator: "<!-- more -->"
 safe:        false
 host:        0.0.0.0
 port:        4000
-baseurl:     /blog
+baseurl:     /
 lsi:         false
 
 maruku:
@@ -120,6 +120,6 @@ assets:
   js_compressor: uglifier
   css_compressor: sass
   cachebust: none
-  cache: false
+  cache: true
   gzip: [ text/css, application/javascript ]
   debug: false
