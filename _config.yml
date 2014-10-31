@@ -1,31 +1,31 @@
 inc:
   # Blog Information
-  title:        "Jekyll Incorporated"
-  subtitle:     "Modern Jekyll based blog for companies"
-  cover_image:  blog-cover.jpg
+  title:        "Multiverso"
+  subtitle:     "Un espacio mixto de Información, actualizaciones y bitácoras acerca del trabajo de un Ingeniero en Diseño Gráfico Digital"
+  cover_image:  covers/main.png
   logo:         logo.png
   
   # Company information
-  company:      Incorporated
-  url:          http://sendtoinc.com/
-  facebook:     sendtoinc
-  twitter:      sendtoinc
-  gplus:        '101183822199340201470'
-  about_link:   https://sendtoinc.com/about/
+  company:      Multiverso
+  url:          http://multiverso.github.io/blog
+  facebook:     ppp367
+  twitter:      pedromota367
+  gplus:        
+  about_link:   http://multiverso.github.io/blog
   
   # Product Information
-  product_link: http://incorporated.sendtoinc.com/
-  tagline:      "Get a modern blog for your company"
+  product_link: http://multiverso.github.io/blog
+  tagline:      "¡Únete al equipo!"
   
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
-    shortname:  false
+    shortname:  multiversoblog
   
   # Sharing settings
   sharing:
-    twitter:    false
-    facebook:   false
+    twitter:    true
+    facebook:   true
     gplus:      false
     hn:         false
     
@@ -54,7 +54,7 @@ timezone:    nil
 future:      false
 show_drafts: nil
 limit_posts: 0
-pygments:    true
+highlighter: rouge
 
 relative_permalinks: true
 
