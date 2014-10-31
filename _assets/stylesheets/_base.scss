@@ -81,8 +81,8 @@ a {
     .avatar {
         float:left;
         border-radius:62px;
-        height:48px;
-        width:48px;
+        height:58px;
+        width:58px;
         margin-top:0;
         margin-right:30px;
     }
@@ -111,11 +111,11 @@ a {
         background-image: -ms-linear-gradient(bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 100%);
 
         background-image: -webkit-gradient(
-        	linear,
-        	left bottom,
-        	left top,
-        	color-stop(0, rgba(0,0,0,0.15)),
-        	color-stop(1, rgba(0,0,0,0))
+            linear,
+            left bottom,
+            left top,
+            color-stop(0, rgba(0,0,0,0.15)),
+            color-stop(1, rgba(0,0,0,0))
         );
         padding: 100px 0;
         z-index:10;
@@ -286,4 +286,12 @@ a {
         color:darken($accent, 10%);
         background:none;
     }
+}
+
+.cat-cg {
+    border-right: 10px solid #d3584a;
+}
+
+.cat-video {
+    border-right: 10px solid #96bf48;
 }
