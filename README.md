@@ -11,9 +11,9 @@ Nota: requiere Ruby version 1.9.3 =>
 
 ## Categorías:
 
-+ categoría 1
-+ categoría 2
-+ categoría 3
-+ categoría 4
-+ categoría 5
-+ categoría 6
++ Cultura-Geek
++ Diseño
++ Media
++ CG
++ Negocios
++ Offtopic

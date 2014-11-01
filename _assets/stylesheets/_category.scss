@@ -6,22 +6,62 @@
 	margin-top: -15px;
 }
 
-.cat-cg {
-    border-right: 10px solid #d3584a;
+.cat-media {
+    border-right: 10px solid $media;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
 }
 
-.cat-video {
-    border-right: 10px solid #96bf48;
+.cat-negocios {
+    border-right: 10px solid $negocios;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
+}
+
+.cat-cultura-geek {
+    border-right: 10px solid $cultura-geek;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.cat-diseno {
+    border-right: 10px solid $diseno;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.cat-cg {
+    border-right: 10px solid $cg;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.cat-offtopic {
+    border-right: 10px solid $offtopic;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.color-media {
+    color: $media;
+}
+
+.color-negocios {
+    color: $negocios;
+}
+
+.color-cultura-geek {
+    color: $cultura-geek;
+}
+
+.color-diseno {
+    color: $diseno;
 }
 
 .color-cg {
-    color: #d3584a;
+    color: $cg;
 }
 
-.color-video {
-    color: #96bf48;
+.color-offtopic {
+    color: $offtopic;
 }
