@@ -1,0 +1,27 @@
+.categoria {
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+	font-size: 13px;
+	margin-top: -15px;
+}
+
+.cat-cg {
+    border-right: 10px solid #d3584a;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 10px;
+}
+
+.cat-video {
+    border-right: 10px solid #96bf48;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 10px;
+}
+
+.color-cg {
+    color: #d3584a;
+}
+
+.color-video {
+    color: #96bf48;
+}
