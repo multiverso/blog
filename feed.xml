@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://multiverso.github.io/blog</link>
+    <atom:link href="http://multiverso.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Sat, 01 Nov 2014 00:19:52 -0800</pubDate>
+    <lastBuildDate>Sat, 01 Nov 2014 00:19:52 -0800</lastBuildDate>
+
+    
+    
+    <item>
+      <title>Post de prueba</title>
+      <link>http://multiverso.github.io/blog/offtopic/2014/10/30/test/</link>
+      <pubDate>Thu, 30 Oct 2014 00:00:00 -0800</pubDate>
+      <author></author>
+      <guid>http://multiverso.github.io/blog/offtopic/2014/10/30/test</guid>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Post de prueba 2</title>
+      <link>http://multiverso.github.io/blog/cg/2014/10/28/prueba-2/</link>
+      <pubDate>Tue, 28 Oct 2014 00:00:00 -0800</pubDate>
+      <author></author>
+      <guid>http://multiverso.github.io/blog/cg/2014/10/28/prueba-2</guid>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived.&lt;/p&gt;</description>
+    </item>
+    
+    
+
+  </channel> 
+</rss>
